@@ -1,2 +1,9 @@
 # Computer-vision-project
- developed a real-time sign language detection model using Python, OpenCV, and Ten sorFlow. Engineered a robust pipeline for data preprocessing, feature extraction (via MediaPipe), and model training with a CNN, achieving 97% accuracy in translating isolated signs to text, demonstrating strong skills in computer vision and deep learning.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
